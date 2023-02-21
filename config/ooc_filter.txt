@@ -1,0 +1,25 @@
+###############################################################################################
+# Words that will block OOC chat messages from sending.                             	      #
+# Case is not important. Commented-out examples are listed below, just remove the "#".        #
+###############################################################################################
+owo
+uwu
+reddit
+nigger
+nigo
+niggo
+neggo
+faggot
+niglet
+naenae
+niggar
+niga
+nigg
+n1gg3r
+nigg3r
+n1gger
+dago
+wap
+dagos
+n i g g e r
+tranny
