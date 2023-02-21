@@ -1,3 +1,0 @@
-#format: FATE +LOCKS
-#locks: +VILLAIN , +PIGPLUS , +COMRADE
-#example: Bum +VILLAIN
